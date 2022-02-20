@@ -1,0 +1,4 @@
+﻿  dllmain.cpp
+C:\Users\NOIKH\OneDrive\桌面\DLL\dllmain.cpp(7,16): warning C4838: 从“int”转换到“char”需要收缩转换
+C:\Users\NOIKH\OneDrive\桌面\DLL\dllmain.cpp(7,16): warning C4309: “初始化”: 截断常量值
+  DLL.vcxproj -> C:\Users\NOIKH\OneDrive\桌面\DLL\x64\Debug\DLL.dll

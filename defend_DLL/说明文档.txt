@@ -1,0 +1,6 @@
+Server_Hook:dll注入防护程序框架，为工程文件夹，编译后的可执行程序Server_Hook.exe位于 ./x64/Debug 中。
+Hook_DLL:dll注入防护过程，编译后的文件DLL.dll位于./x64/Realease中。
+使用方法：
+1. 打开Server端(ControlServer.exe)；
+2. 开启防护软件Server_Hook.exe对Server进行dll注入；
+3. 根据提示进行选择。
