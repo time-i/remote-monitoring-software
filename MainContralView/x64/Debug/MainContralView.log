@@ -1,0 +1,17 @@
+﻿  pch.cpp
+  CCheckFile.cpp
+C:\Users\24705\Desktop\RemoteControlView-main\RemoteView\MainContralView\MainContralView\CCheckFile.cpp(174,24): warning C4244: “初始化”: 从“__int64”转换到“double”，可能丢失数据
+C:\Users\24705\Desktop\RemoteControlView-main\RemoteView\MainContralView\MainContralView\CCheckFile.cpp(175,24): warning C4244: “初始化”: 从“__int64”转换到“double”，可能丢失数据
+  CCMD.cpp
+  CLock.cpp
+  CSetLocalInf.cpp
+  InitSockLib.cpp
+  MainContralView.cpp
+  MainContralViewDoc.cpp
+  MainContralViewView.cpp
+C:\Users\24705\Desktop\RemoteControlView-main\RemoteView\MainContralView\MainContralView\MainContralViewView.cpp(213,19): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\24705\Desktop\RemoteControlView-main\RemoteView\MainContralView\MainContralView\MainContralViewView.cpp(300,24): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  MainFrm.cpp
+  TcpSocket.cpp
+  正在生成代码...
+  MainContralView.vcxproj -> C:\Users\24705\Desktop\RemoteControlView-main\RemoteView\MainContralView\x64\Debug\MainContralView.exe

@@ -1,0 +1,30 @@
+﻿  CLock.cpp
+  ControlServer.cpp
+  InitSockLib.cpp
+  Server.cpp
+C:\Users\24705\Desktop\FinalHomework\RemoteControlView-main\RemoteView\ControlServer\ControlServer\Server.cpp(83,19): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\24705\Desktop\FinalHomework\RemoteControlView-main\RemoteView\ControlServer\ControlServer\Server.cpp(274,33): error C2440: “初始化”: 无法从“const char [8]”转换为“TCHAR [260]”
+C:\Users\24705\Desktop\FinalHomework\RemoteControlView-main\RemoteView\ControlServer\ControlServer\Server.cpp(274,22): message : 字符串文本与数组类型不兼容
+C:\Users\24705\Desktop\FinalHomework\RemoteControlView-main\RemoteView\ControlServer\ControlServer\Server.cpp(275,9): error C2664: “BOOL CreateProcessW(LPCWSTR,LPWSTR,LPSECURITY_ATTRIBUTES,LPSECURITY_ATTRIBUTES,BOOL,DWORD,LPVOID,LPCWSTR,LPSTARTUPINFOW,LPPROCESS_INFORMATION)”: 无法将参数 2 从“LPSTR”转换为“LPWSTR”
+C:\Users\24705\Desktop\FinalHomework\RemoteControlView-main\RemoteView\ControlServer\ControlServer\Server.cpp(277,10): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\processthreadsapi.h(372,1): message : 参见“CreateProcessW”的声明
+C:\Users\24705\Desktop\FinalHomework\RemoteControlView-main\RemoteView\ControlServer\ControlServer\Server.cpp(344,43): warning C4552: ”+“: 未使用表达式结果
+C:\Users\24705\Desktop\FinalHomework\RemoteControlView-main\RemoteView\ControlServer\ControlServer\Server.cpp(360,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\24705\Desktop\FinalHomework\RemoteControlView-main\RemoteView\ControlServer\ControlServer\Server.cpp(363,3): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\24705\Desktop\FinalHomework\RemoteControlView-main\RemoteView\ControlServer\ControlServer\Server.cpp(365,2): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\24705\Desktop\FinalHomework\RemoteControlView-main\RemoteView\ControlServer\ControlServer\Server.cpp(384,4): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\24705\Desktop\FinalHomework\RemoteControlView-main\RemoteView\ControlServer\ControlServer\Server.cpp(385,4): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\24705\Desktop\FinalHomework\RemoteControlView-main\RemoteView\ControlServer\ControlServer\Server.cpp(386,4): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\24705\Desktop\FinalHomework\RemoteControlView-main\RemoteView\ControlServer\ControlServer\Server.cpp(409,4): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\24705\Desktop\FinalHomework\RemoteControlView-main\RemoteView\ControlServer\ControlServer\Server.cpp(410,4): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\24705\Desktop\FinalHomework\RemoteControlView-main\RemoteView\ControlServer\ControlServer\Server.cpp(411,4): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\24705\Desktop\FinalHomework\RemoteControlView-main\RemoteView\ControlServer\ControlServer\Server.cpp(490,65): error C2664: “DWORD GetLogicalDriveStringsW(DWORD,LPWSTR)”: 无法将参数 2 从“char [65535]”转换为“LPWSTR”
+C:\Users\24705\Desktop\FinalHomework\RemoteControlView-main\RemoteView\ControlServer\ControlServer\Server.cpp(490,58): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\fileapi.h(769,1): message : 参见“GetLogicalDriveStringsW”的声明
+C:\Users\24705\Desktop\FinalHomework\RemoteControlView-main\RemoteView\ControlServer\ControlServer\Server.cpp(516,15): error C2664: “HANDLE CreateFileW(LPCWSTR,DWORD,DWORD,LPSECURITY_ATTRIBUTES,DWORD,DWORD,HANDLE)”: 无法将参数 1 从“char *”转换为“LPCWSTR”
+C:\Users\24705\Desktop\FinalHomework\RemoteControlView-main\RemoteView\ControlServer\ControlServer\Server.cpp(517,10): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\fileapi.h(92,1): message : 参见“CreateFileW”的声明
+C:\Users\24705\Desktop\FinalHomework\RemoteControlView-main\RemoteView\ControlServer\ControlServer\Server.cpp(560,15): error C2664: “HANDLE CreateFileW(LPCWSTR,DWORD,DWORD,LPSECURITY_ATTRIBUTES,DWORD,DWORD,HANDLE)”: 无法将参数 1 从“char *”转换为“LPCWSTR”
+C:\Users\24705\Desktop\FinalHomework\RemoteControlView-main\RemoteView\ControlServer\ControlServer\Server.cpp(561,10): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\fileapi.h(92,1): message : 参见“CreateFileW”的声明
+  TcpSocket.cpp
